@@ -1,0 +1,5 @@
+# Virtual Environments
+.venv/
+
+# Jupyter Notebook aut generated files
+.ipynb_checkpoints/
