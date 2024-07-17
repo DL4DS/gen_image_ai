@@ -4,3 +4,4 @@ ipykernel
 numpy
 matplotlib
 seaborn
+scikit-image
