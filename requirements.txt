@@ -1,0 +1,6 @@
+# Minimal Jupyter Notebook support for VS Code
+ipykernel
+
+numpy
+matplotlib
+seaborn
